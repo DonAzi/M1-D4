@@ -164,9 +164,12 @@ console.log(totalCars)
 
 /* WRITE YOUR ANSWER HERE */
 console.log()
-for (i=0; i<=carsForSale; i++);
 
+for (let i=0; i<=carsForSale; i++);
+{
     carsForSale[i]
+}
+    
     console.log(carsForSale)
 
 /* WHEN YOU ARE FINISHED
